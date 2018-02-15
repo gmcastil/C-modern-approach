@@ -38,9 +38,9 @@ int main(void) {
 
      // d
      printf("[%6.0f]\n", pi);
-     printf("[    3.]\n");
+     printf("[     3]\n");
 
-     printf("[%6.0f\n", gravity);
-     printf("[    9.]\n");
+     printf("[%6.0f]\n", gravity);
+     printf("[    10]\n");
 
 }
