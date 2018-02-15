@@ -9,5 +9,6 @@ int main(void) {
   printf("[%.4f]\n", 83.162);
   printf("[83.1620]\n");
   printf("[%-6.2g]\n", .0000009979);
-  printf("[1e-6 ]\n");
+  printf("[1e-06 ]\n");
+
 }
