@@ -21,4 +21,8 @@ int main(void) {
      i = 0x41;
      printf("%u equals 65.\n", i);
 
+     // Experiment
+     printf("j is %c\n", j);
+     printf("j is also %u\n", j);
+     printf("One should be an integer, the other a char?\n");
 }
